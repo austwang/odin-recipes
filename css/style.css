@@ -11,19 +11,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-nav {
-    display: flex;
-}
-
-nav a {
-    border: 3px solid black;
-    font-weight: bold;
-    padding: 24px;
-    margin: 4px;
-    flex: 1;
-    justify-content: space-evenly;
-}
-
 h1 {
     background-color: lightyellow;
     border: 6px groove darkgoldenrod;
@@ -43,6 +30,19 @@ img {
     border: 6px double black;
     padding: 6px;
     margin: 0 auto;
+}
+
+nav {
+    display: flex;
+}
+
+nav a {
+    border: 3px solid black;
+    font-weight: bold;
+    padding: 24px;
+    margin: 4px;
+    flex: 1;
+    justify-content: space-evenly;
 }
 
 .recipe {
