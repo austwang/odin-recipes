@@ -33,7 +33,10 @@ h2 {
 }
 
 img {
+    box-sizing: content-box;
     display: block;
+    border: 6px double black;
+    padding: 6px;
     margin: 0 auto;
 }
 
