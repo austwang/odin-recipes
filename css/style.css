@@ -8,4 +8,11 @@ html {
 
 body {
     background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: lightyellow;
+    border: 3px solid darkgoldenrod;
+    padding: 12px;
 }
