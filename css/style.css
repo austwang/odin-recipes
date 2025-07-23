@@ -46,3 +46,8 @@ img {
     margin: 24px auto;
     padding: 24px;
 }
+
+.home {
+    border: 2px solid black;
+    padding: 4px;
+}
