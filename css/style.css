@@ -11,12 +11,17 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.nav ul li {
-    display: inline-block;
+nav {
+    display: flex;
+}
+
+nav a {
     border: 3px solid black;
     font-weight: bold;
     padding: 24px;
     margin: 4px;
+    flex: 1;
+    justify-content: space-evenly;
 }
 
 h1 {
