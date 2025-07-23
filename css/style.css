@@ -35,6 +35,6 @@ img {
 .recipe {
     background-color: lightcyan;
     border: 8px double darkcyan;
-    margin: 12px auto;
-    padding: 12px;
+    margin: 24px auto;
+    padding: 24px;
 }
