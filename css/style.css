@@ -31,3 +31,10 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.recipe {
+    background-color: lightcyan;
+    border: 8px double darkcyan;
+    margin: 12px auto;
+    padding: 12px;
+}
